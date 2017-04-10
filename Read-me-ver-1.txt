@@ -9,5 +9,3 @@ Let's see what news.
 Let's think about the how to make Repository from another contributor
 When I recvice sharing link, let's click green button "Clone or download" to create a Repository on local machine
 And then, let's download Repository on webase and Extract to Repository above
----NHPIT993 WAS ADDED IN HERE
-I found solution to Sync
