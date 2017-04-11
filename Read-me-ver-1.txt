@@ -11,9 +11,14 @@ When I recvice sharing link, let's click green button "Clone or download" to cre
 And then, let's download Repository on webase and Extract to Repository above
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 -----IPHONG993 VNEXPRESS IS A BEST ONLINE NEWS IN VIETNAM
 THE CONTENT OF WEB IS VERY ORIGINAL, WHICH IS TRANSLTE FROM A TRUST SOURCE
 THIS SCRIPT MADE IN 11/04/2017 8:58 SA
+=======
+---AND NOW NHPIT993 WROTE THIS SCRIPT
+IT'S MADE FOR TEST HOW TIME COMING FIRST
+>>>>>>> origin/master
 =======
 ---AND NOW NHPIT993 WROTE THIS SCRIPT
 IT'S MADE FOR TEST HOW TIME COMING FIRST
